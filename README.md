@@ -96,7 +96,7 @@ This repository demonstrates my understanding of:
 - Clean coding practices  
 - GitHub workflow  
 
-This completes **Internship Task – 1**  successfully.
+This completes **Internship Assignment – 1**  successfully.
 
 ---
 
