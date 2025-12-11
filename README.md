@@ -1,4 +1,4 @@
-# 🚀 Basic Python Programming – Internship Assignment 1  
+# 🚀 Basic Python Programming - Programming Task 1
 ### Innomatics Research Labs – Data Science Internship  
 
 This repository contains **solutions to 7 foundational Python programming tasks**, covering conditionals, loops, operators, functions, and logic building.
@@ -82,7 +82,7 @@ python 5_loops.py
 |-------|-------------|
 | **Name** | Sourav Varma Gottumukkala |
 | **Internship** | Data Science Internship – Innomatics Research Labs |
-| **Task** | Basic Python Programming – Assignment 1 |
+| **Task** | Basic Python Programming - Programming Task 1 |
 | **Date** | December 2025 |
 
 ---
@@ -96,7 +96,7 @@ This repository demonstrates my understanding of:
 - Clean coding practices  
 - GitHub workflow  
 
-This completes **Programming Task – 1** successfully.
+This completes **Internship Task – 1**  successfully.
 
 ---
 
