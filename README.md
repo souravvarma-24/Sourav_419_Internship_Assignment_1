@@ -100,4 +100,4 @@ This completes **Programming Task – 1** successfully.
 
 ---
 
-## If you appreciate the effort behind this assignment, feel free to support it with a ⭐ on GitHub.
+## Your support matters! If this repository helped you, please leave a ⭐.
